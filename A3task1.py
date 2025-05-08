@@ -1,3 +1,4 @@
+#calculating factorial using a function
 n=int(input('Enter a number: '))
 def factorial(n):
     if n==0:
